@@ -1,4 +1,4 @@
-# OnlyLoadingDisplayRecvclerView
+# 仅刷新显示区域数据的RecycleView
 
 ## 效果预览
 

@@ -1,4 +1,4 @@
-package ysn.com.onlyloadingdisplayrecvclerview.adapter;
+package ysn.com.onlyloadingdisplayrecyclerview.adapter;
 
 import android.content.Context;
 
@@ -7,9 +7,9 @@ import java.util.List;
 
 import ysn.com.baserecyclerviewadapter.adapter.BaseRecyclerViewAdapter;
 import ysn.com.baserecyclerviewadapter.holder.BaseViewHolder;
-import ysn.com.onlyloadingdisplayrecvclerview.R;
-import ysn.com.onlyloadingdisplayrecvclerview.bean.Stock;
-import ysn.com.onlyloadingdisplayrecvclerview.utils.NumberUtils;
+import ysn.com.onlyloadingdisplayrecyclerview.R;
+import ysn.com.onlyloadingdisplayrecyclerview.bean.Stock;
+import ysn.com.onlyloadingdisplayrecyclerview.utils.NumberUtils;
 
 /**
  * @Author yangsanning

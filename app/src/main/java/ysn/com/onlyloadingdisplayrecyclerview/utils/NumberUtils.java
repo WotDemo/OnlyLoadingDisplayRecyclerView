@@ -1,4 +1,4 @@
-package ysn.com.onlyloadingdisplayrecvclerview.utils;
+package ysn.com.onlyloadingdisplayrecyclerview.utils;
 
 import java.util.Random;
 

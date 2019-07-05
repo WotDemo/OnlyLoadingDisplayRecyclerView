@@ -1,9 +1,9 @@
-package ysn.com.onlyloadingdisplayrecvclerview.divider;
+package ysn.com.onlyloadingdisplayrecyclerview.divider;
 
 import android.content.Context;
 import android.support.annotation.Nullable;
 
-import ysn.com.onlyloadingdisplayrecvclerview.R;
+import ysn.com.onlyloadingdisplayrecyclerview.R;
 import ysn.com.recyclerviewdivider.Divider;
 import ysn.com.recyclerviewdivider.DividerBuilder;
 import ysn.com.recyclerviewdivider.RecyclerViewDivider;

@@ -1,4 +1,4 @@
-package ysn.com.onlyloadingdisplayrecvclerview;
+package ysn.com.onlyloadingdisplayrecyclerview;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

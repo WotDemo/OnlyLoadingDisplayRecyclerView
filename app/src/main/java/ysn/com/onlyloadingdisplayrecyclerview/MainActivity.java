@@ -1,4 +1,4 @@
-package ysn.com.onlyloadingdisplayrecvclerview;
+package ysn.com.onlyloadingdisplayrecyclerview;
 
 import android.os.Bundle;
 import android.os.Handler;
@@ -11,10 +11,10 @@ import android.util.Log;
 import java.util.ArrayList;
 import java.util.concurrent.atomic.AtomicBoolean;
 
-import ysn.com.onlyloadingdisplayrecvclerview.adapter.StockAdapter;
-import ysn.com.onlyloadingdisplayrecvclerview.bean.Stock;
-import ysn.com.onlyloadingdisplayrecvclerview.divider.DividerItemDecoration;
-import ysn.com.onlyloadingdisplayrecvclerview.utils.NumberUtils;
+import ysn.com.onlyloadingdisplayrecyclerview.adapter.StockAdapter;
+import ysn.com.onlyloadingdisplayrecyclerview.bean.Stock;
+import ysn.com.onlyloadingdisplayrecyclerview.divider.DividerItemDecoration;
+import ysn.com.onlyloadingdisplayrecyclerview.utils.NumberUtils;
 
 public class MainActivity extends AppCompatActivity {
 

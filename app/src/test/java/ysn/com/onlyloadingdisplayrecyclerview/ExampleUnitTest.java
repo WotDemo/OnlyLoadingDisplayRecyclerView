@@ -1,4 +1,4 @@
-package ysn.com.onlyloadingdisplayrecvclerview;
+package ysn.com.onlyloadingdisplayrecyclerview;
 
 import org.junit.Test;
 

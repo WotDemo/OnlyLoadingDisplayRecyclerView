@@ -1,4 +1,4 @@
-package ysn.com.onlyloadingdisplayrecvclerview.bean;
+package ysn.com.onlyloadingdisplayrecyclerview.bean;
 
 /**
  * @Author yangsanning

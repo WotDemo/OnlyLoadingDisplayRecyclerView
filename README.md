@@ -8,4 +8,4 @@
 
 #### 注
 ##### [BaseRecyclerViewAdapter](https://github.com/yangsanning/BaseRecyclerViewAdapter)
-##### [RecyclerViewDivider](https://github.com/yangsanning/RecyclerViewDivider)
+##### [BaseItemDecoration](https://github.com/yangsanning/BaseItemDecoration)
